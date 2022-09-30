@@ -1,3 +1,3 @@
 # Node.js and Express Hosted on Microsoft Azure Template
-This repository serves as a template that can be used to create a Node.js and Express based website that can easily
-be hosted on Microsoft Azure.
+This is a Craps game. The objective is to get a sum higher than 7 when you roll both dice. The user will click the button
+and two dice will "roll" but really the program is just selecting a number 1-6 and adding both dice together.
